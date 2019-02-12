@@ -1,0 +1,16 @@
+{
+  "url":"http://www.way2automation.com/angularjs-protractor/registeration/#/login",
+  "locators":{
+    "username_field":"username",
+    "password_field":"password",
+    "userDetails_field":"model[options.key]",
+    "clickCon":"button[class='btn btn-danger']",
+    "verifyText_field":"//p[contains(text(),'logged in!!')]",
+    "logout_field":"//a[contains(text(),'Logout')]"
+  },
+  "data":{
+    "username_data":"angular",
+    "password_data":"password",
+    "userDetails_data":"hello"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uid" : "64a6e430-bce2-440c-a331-386c9605a42e",
+  "name" : "enter user name",
+  "title" : "enter user name",
+  "time" : {
+    "start" : 1549876376648,
+    "stop" : 1549876378952,
+    "duration" : 2304
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : null,
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

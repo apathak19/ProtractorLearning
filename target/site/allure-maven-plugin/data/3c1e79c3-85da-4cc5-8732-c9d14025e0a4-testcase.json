@@ -1,0 +1,32 @@
+{
+  "uid" : "3c1e79c3-85da-4cc5-8732-c9d14025e0a4",
+  "name" : "enter user name",
+  "title" : "enter user name",
+  "time" : {
+    "start" : 1549890154863,
+    "stop" : 1549890157896,
+    "duration" : 3033
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : null,
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "416a8e0f-4d69-45a6-96a4-f449d02b04ef-attachment.png",
+    "type" : null
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

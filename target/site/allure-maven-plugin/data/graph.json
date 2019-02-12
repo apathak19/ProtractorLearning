@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "ce6f9b9e-f1b8-4dc1-ab89-2095fb434d98",
+    "name" : "enter user name",
+    "title" : "enter user name",
+    "time" : {
+      "start" : 1549892205855,
+      "stop" : 1549892209079,
+      "duration" : 3224
+    },
+    "severity" : null,
+    "status" : "PASSED"
+  }, {
+    "uid" : "30ac2730-129d-4462-aafc-ab599cba331f",
+    "name" : "enter user name",
+    "title" : "enter user name",
+    "time" : {
+      "start" : 1549892209079,
+      "stop" : 1549892210531,
+      "duration" : 1452
+    },
+    "severity" : null,
+    "status" : "PASSED"
+  } ]
+}
